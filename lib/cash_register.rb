@@ -23,5 +23,5 @@ class CashRegister
   @total 
   end
   
-  
+  def 
 end 
